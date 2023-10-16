@@ -37,6 +37,7 @@ Contributions are welcome! Feel free to submit issues or pull requests if you ha
 
 For any inquiries or feedback, please reach out to [Arden Jacobs](mailto:ardengrahamjacobs@gmail.com).
 
+
 ---
 
 Designed and developed by [Arden Jacobs](https://github.com/Arden-Jacobs)
